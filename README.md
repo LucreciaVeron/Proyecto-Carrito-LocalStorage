@@ -28,4 +28,4 @@ Esta es una página web de cursos en la que he implementado funcionalidades de c
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/LucreciaVeron/Proyecto-Carrito-LocalStorage
+   git clone https://github.com/LucreciaVeron/Proyecto-Carrito-LocalStorage.git
