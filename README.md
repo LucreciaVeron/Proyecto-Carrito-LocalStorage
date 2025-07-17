@@ -2,6 +2,9 @@
 
 Esta es una página web de cursos en la que he implementado funcionalidades de carrito de compras utilizando **JavaScript** y **Local Storage**. El proyecto fue desarrollado como parte de un curso práctico de JavaScript moderno y demuestra el manejo del DOM, eventos, y preservación de datos en el navegador.
 
+Este proyecto fue creado como parte del curso de Udemy:  
+[JavaScript Moderno: Guía Definitiva Construye +10 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos)
+
 ---
 
 ## 📌 Descripción
